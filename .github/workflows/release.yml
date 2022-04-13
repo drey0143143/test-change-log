@@ -1,36 +1,36 @@
-name: Changelog & Releases
+name: Release using conventional commits (master branch)
+
 on:
- push:
+  push:
    branches:
      - main
 
 jobs:
-  changelog:
-    runs-on: ubuntu-latest
+  release:
+   runs-on: ubuntu-latest
 
-    steps:
-      # It is required to have a checkout step prior to changelog and release step,to allow action to discover the configuration file.
-      - uses: actions/checkout@v2
-      
-      - name: Create required package.json
-        # This step creates an empty package.json file in the root of the repository that contains information about your project(version,etc)
-        # and it lists the packages that your project is dependent on.
-        run: test -f package.json || echo '{}' >package.json
+   steps:
+    - name: checkout
+      uses: actions/checkout@v2
 
-        # This step creates changelog.md in the root of the repository
-      - name: Changelog Action
-        id: changelog
-        uses: TriPSs/conventional-changelog-action@v3
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+    - name: conventional changelog action
+      id: changelog
+      # https://github.com/TriPSs/conventional-changelog-action
+      uses: TriPSs/conventional-changelog-action@latest
+      with:
+        # you can also create separate token to trace action
+        github-token: "${{ secrets.GITHUB_TOKEN }}"
 
-        # This step creates release if there are changes from the previous release and skip if there are no changes from the previous release.
-      - name: create release
-        uses: actions/create-release@v1
-        if: ${{ steps.changelog.outputs.skipped == 'false'}}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
-        with:
+    - name: create release
+      # https://github.com/actions/create-release
+      uses: softprops/action-gh-release@v1
+      if: ${{steps.changelog.outputs.skipped == 'false'}}
+      env:
+        # This token is provided by Actions, you do not need to create your own token
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
           tag_name: ${{ steps.changelog.outputs.tag }}
-          release_name: ${{ steps.changelog.outputs.tag }}
-          body: ${{ steps.changelog.outputs.clean_changelog }}
+          name: ${{ steps.changelog.outputs.tag }}
+          body: ${{steps.changelog.outputs.clean_changelog}}
+          draft: false
+          prerelease: false
