@@ -16,7 +16,7 @@ jobs:
     - name: conventional changelog action
       id: changelog
       # https://github.com/TriPSs/conventional-changelog-action
-      uses: TriPSs/conventional-changelog-action@latest
+      uses: TriPSs/conventional-changelog-action@v3
       with:
         # you can also create separate token to trace action
         github-token: "${{ secrets.GITHUB_TOKEN }}"
@@ -24,7 +24,7 @@ jobs:
 
     - name: create release
       # https://github.com/actions/create-release
-      uses: softprops/action-gh-release@v1
+      uses: actions/create-release@v1
       if: ${{steps.changelog.outputs.skipped == 'false'}}
       env:
         # This token is provided by Actions, you do not need to create your own token
