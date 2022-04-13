@@ -24,3 +24,14 @@ EOF
   tags               = var.tags
 }
 
+
+variable "github_repo_name" {
+  description = "The name of the repository to use with assume role policy trust condition"
+  type        = string
+}
+
+variable "orchestration_policy_name_prefix" {
+  default     = ""
+  description = "The name of policy to be attached to orchestration role created. Preceds suffix of same type."
+  type        = string
+}
