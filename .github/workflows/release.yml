@@ -20,6 +20,7 @@ jobs:
       with:
         # you can also create separate token to trace action
         github-token: "${{ secrets.GITHUB_TOKEN }}"
+        skip-on-empty: false
 
     - name: create release
       # https://github.com/actions/create-release
