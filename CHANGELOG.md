@@ -1,3 +1,12 @@
+# [3.2.0](https://github.com/drey0143143/test-change-log/compare/v3.1.0...v3.2.0) (2022-04-18)
+
+
+### Bug Fixes
+
+* change pr , feat: master code changes ([3dfc763](https://github.com/drey0143143/test-change-log/commit/3dfc7630649ef10c923aef96d998e6c85794074b))
+
+
+
 # [3.1.0](https://github.com/drey0143143/test-change-log/compare/v3.0.2...v3.1.0) (2022-04-18)
 
 
@@ -27,15 +36,6 @@
 
 * amend package.json ([4b760c9](https://github.com/drey0143143/test-change-log/commit/4b760c932e57b2c7e44e5b071cacf4645ee5bdc5))
 * version changes made ([dd486fa](https://github.com/drey0143143/test-change-log/commit/dd486fa460d80020ea9cf881a677f8e382b221a6))
-
-
-
-## [0.2.6](https://github.com/drey0143143/test-change-log/compare/v0.2.5...v0.2.6) (2022-04-14)
-
-
-### Bug Fixes
-
-* jobs name ([0bd84df](https://github.com/drey0143143/test-change-log/commit/0bd84df093898d90a8e2164f2ba6dd403a4a8835))
 
 
 
