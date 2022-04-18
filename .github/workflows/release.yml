@@ -11,9 +11,6 @@ jobs:
     steps:
       # It is required to have a checkout step prior to changelog and release step,to allow action to discover the configuration file.
       - uses: actions/checkout@v2
-        with:
-          # This is needed to retrieve all commits to look for the semver commit message
-          fetch-depth: "0"
 
         # This step creates changelog.md in the root of the repository
       - name: Changelog Action
@@ -21,7 +18,6 @@ jobs:
         uses: TriPSs/conventional-changelog-action@v3
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
-          skip-on-empty: false
 
         # This step creates release if there are changes from the previous release and skip if there are no changes from the previous release.
       - name: create release
