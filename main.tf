@@ -13,7 +13,7 @@ resource "aws_iam_role" "orchestration_role" {
     "Condition":{
       "StringEquals":{
         "token.actions.githubusercontent.com:sub": [
-          "repo:ipipeline/${var.github_repo_name}:ref:refs/heads/master",
+          "repo:ipipeline/${var.github_repo_name}:ref:refs/heads/working-test",
           "repo:ipipeline/${var.github_repo_name}:push"
         ]
       }
