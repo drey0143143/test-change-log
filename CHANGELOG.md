@@ -1,3 +1,12 @@
+# [3.1.0](https://github.com/drey0143143/test-change-log/compare/v3.0.2...v3.1.0) (2022-04-18)
+
+
+### Features
+
+* change master to working-test ([0fa844c](https://github.com/drey0143143/test-change-log/commit/0fa844c83e260ea9d343b69c03680347fc84d198))
+
+
+
 ## [3.0.2](https://github.com/drey0143143/test-change-log/compare/v3.0.1...v3.0.2) (2022-04-18)
 
 
@@ -27,15 +36,6 @@
 ### Bug Fixes
 
 * jobs name ([0bd84df](https://github.com/drey0143143/test-change-log/commit/0bd84df093898d90a8e2164f2ba6dd403a4a8835))
-
-
-
-## [0.2.5](https://github.com/drey0143143/test-change-log/compare/v0.2.4...v0.2.5) (2022-04-13)
-
-
-### Bug Fixes
-
-* changed release action ([9eeb63c](https://github.com/drey0143143/test-change-log/commit/9eeb63c19c1800c4acd25ddb66be8bc0b8fb4a21))
 
 
 
