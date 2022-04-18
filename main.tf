@@ -27,7 +27,7 @@ EOF
 
 variable "github_repo_name" {
   description = "The name of the repository to use with assume role policy trust condition"
-  type        = string
+  type        = list(string)
 }
 
 variable "orchestration_policy_name_prefix" {
@@ -39,14 +39,6 @@ variable "orchestration_policy_name_prefix" {
 variable "orchestration_policy_name_suffix" {
   default     = "_orchestration_role_policy"
   description = "The name of policy to be attached to orchestration role created. Appended to prefix of same type."
-  type        = string
+  type        = list
 }
 
-Oludare omo Oluwa
-
-Jesus is Lord
-
-
-to God be the Glory
-
-Damola Devops 
