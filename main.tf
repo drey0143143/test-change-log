@@ -1,4 +1,4 @@
-resource "aws_iam_role" "orchestration_role" {
+resource "aws_iam_role" "orchestration_role1" {
   name = local.orchestration_role_name
 
   assume_role_policy = <<EOF
@@ -14,7 +14,7 @@ resource "aws_iam_role" "orchestration_role" {
       "StringEquals":{
         "token.actions.githubusercontent.com:sub": [
           "repo:ipipeline/${var.github_repo_name}:ref:refs/heads/master",
-          "repo:ipipeline/${var.github_repo_name}:push"
+          "repo:ipipeline/${var.github_repo_name}:pull_request"
         ]
       }
     }
