@@ -1,3 +1,7 @@
+## [3.0.1](https://github.com/drey0143143/test-change-log/compare/v0.2.7...v3.0.1) (2022-04-18)
+
+
+
 ## [0.2.7](https://github.com/drey0143143/test-change-log/compare/v0.2.6...v0.2.7) (2022-04-18)
 
 
@@ -32,10 +36,6 @@
 ### Bug Fixes
 
 * update release action ([14868c4](https://github.com/drey0143143/test-change-log/commit/14868c4569273b73fd8ff069381bc78555e48348))
-
-
-
-## [0.2.3](https://github.com/drey0143143/test-change-log/compare/v0.2.2...v0.2.3) (2022-04-13)
 
 
 
