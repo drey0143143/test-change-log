@@ -1,3 +1,13 @@
+## [0.2.7](https://github.com/drey0143143/test-change-log/compare/v0.2.6...v0.2.7) (2022-04-18)
+
+
+### Bug Fixes
+
+* amend package.json ([4b760c9](https://github.com/drey0143143/test-change-log/commit/4b760c932e57b2c7e44e5b071cacf4645ee5bdc5))
+* version changes made ([dd486fa](https://github.com/drey0143143/test-change-log/commit/dd486fa460d80020ea9cf881a677f8e382b221a6))
+
+
+
 ## [0.2.6](https://github.com/drey0143143/test-change-log/compare/v0.2.5...v0.2.6) (2022-04-14)
 
 
@@ -26,10 +36,6 @@
 
 
 ## [0.2.3](https://github.com/drey0143143/test-change-log/compare/v0.2.2...v0.2.3) (2022-04-13)
-
-
-
-## [0.2.2](https://github.com/drey0143143/test-change-log/compare/v0.2.1...v0.2.2) (2022-04-13)
 
 
 
