@@ -9,3 +9,5 @@ Every commit message should follow the [Conventional Commits specification](http
 
 This will result in a changelog & release being generated on each merge to the master branch.
 
+# Code of Conduct
+  Our project has adopted [Contributor Covenant  v2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
