@@ -1,3 +1,12 @@
+# [3.5.0](https://github.com/drey0143143/test-change-log/compare/v3.4.0...v3.5.0) (2022-04-19)
+
+
+### Features
+
+* new code functionality added ([fda3cfd](https://github.com/drey0143143/test-change-log/commit/fda3cfdd0c0c2452c839c303a4e58bd8e097307d))
+
+
+
 # [3.4.0](https://github.com/drey0143143/test-change-log/compare/v3.3.0...v3.4.0) (2022-04-19)
 
 
@@ -36,15 +45,6 @@
 ### Bug Fixes
 
 * change pr , feat: master code changes ([3dfc763](https://github.com/drey0143143/test-change-log/commit/3dfc7630649ef10c923aef96d998e6c85794074b))
-
-
-
-# [3.1.0](https://github.com/drey0143143/test-change-log/compare/v3.0.2...v3.1.0) (2022-04-18)
-
-
-### Features
-
-* change master to working-test ([0fa844c](https://github.com/drey0143143/test-change-log/commit/0fa844c83e260ea9d343b69c03680347fc84d198))
 
 
 
