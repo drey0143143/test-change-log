@@ -1,3 +1,12 @@
+## [3.2.1](https://github.com/drey0143143/test-change-log/compare/v3.2.0...v3.2.1) (2022-04-19)
+
+
+### Bug Fixes
+
+* add new functionality to retrieve commits ([ce6011e](https://github.com/drey0143143/test-change-log/commit/ce6011e3bb9f9332046632894c4d81395bff2089))
+
+
+
 # [3.2.0](https://github.com/drey0143143/test-change-log/compare/v3.1.0...v3.2.0) (2022-04-18)
 
 
@@ -26,16 +35,6 @@
 
 
 ## [3.0.1](https://github.com/drey0143143/test-change-log/compare/v0.2.7...v3.0.1) (2022-04-18)
-
-
-
-## [0.2.7](https://github.com/drey0143143/test-change-log/compare/v0.2.6...v0.2.7) (2022-04-18)
-
-
-### Bug Fixes
-
-* amend package.json ([4b760c9](https://github.com/drey0143143/test-change-log/commit/4b760c932e57b2c7e44e5b071cacf4645ee5bdc5))
-* version changes made ([dd486fa](https://github.com/drey0143143/test-change-log/commit/dd486fa460d80020ea9cf881a677f8e382b221a6))
 
 
 
