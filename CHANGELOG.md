@@ -1,3 +1,12 @@
+## [3.6.1](https://github.com/drey0143143/test-change-log/compare/v3.6.0...v3.6.1) (2022-04-19)
+
+
+### Bug Fixes
+
+* add new tag ([14822d5](https://github.com/drey0143143/test-change-log/commit/14822d58f5276b526cc1635e06dcd15f40314b04))
+
+
+
 # [3.6.0](https://github.com/drey0143143/test-change-log/compare/v3.5.0...v3.6.0) (2022-04-19)
 
 
@@ -41,15 +50,6 @@
 ### Features
 
 * edit note for contributors ([db487da](https://github.com/drey0143143/test-change-log/commit/db487dae0fad925fa33865240d721522a342068b))
-
-
-
-## [3.2.1](https://github.com/drey0143143/test-change-log/compare/v3.2.0...v3.2.1) (2022-04-19)
-
-
-### Bug Fixes
-
-* add new functionality to retrieve commits ([ce6011e](https://github.com/drey0143143/test-change-log/commit/ce6011e3bb9f9332046632894c4d81395bff2089))
 
 
 
