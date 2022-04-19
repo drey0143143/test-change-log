@@ -1,3 +1,17 @@
+# [3.6.0](https://github.com/drey0143143/test-change-log/compare/v3.5.0...v3.6.0) (2022-04-19)
+
+
+### Bug Fixes
+
+* new tf code added ([79402ac](https://github.com/drey0143143/test-change-log/commit/79402ac7795b457cd9869f24ccda95db7e1f9b7c))
+
+
+### Features
+
+* data type changed ([063b99f](https://github.com/drey0143143/test-change-log/commit/063b99f8274a79e2de48d91db48a08abd72cddb8))
+
+
+
 # [3.5.0](https://github.com/drey0143143/test-change-log/compare/v3.4.0...v3.5.0) (2022-04-19)
 
 
@@ -36,15 +50,6 @@
 ### Bug Fixes
 
 * add new functionality to retrieve commits ([ce6011e](https://github.com/drey0143143/test-change-log/commit/ce6011e3bb9f9332046632894c4d81395bff2089))
-
-
-
-# [3.2.0](https://github.com/drey0143143/test-change-log/compare/v3.1.0...v3.2.0) (2022-04-18)
-
-
-### Bug Fixes
-
-* change pr , feat: master code changes ([3dfc763](https://github.com/drey0143143/test-change-log/commit/3dfc7630649ef10c923aef96d998e6c85794074b))
 
 
 
