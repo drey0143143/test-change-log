@@ -15,7 +15,7 @@ jobs:
           fetch-depth: "50"
 
         # This step creates changelog.md in the root of the repository
-      - name: Changelog Action
+      - name: Changelog Actions
         id: changelog
         uses: TriPSs/conventional-changelog-action@v3
         with:
