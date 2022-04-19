@@ -1,3 +1,17 @@
+# [3.4.0](https://github.com/drey0143143/test-change-log/compare/v3.3.0...v3.4.0) (2022-04-19)
+
+
+### Bug Fixes
+
+* new functionality added ([4fa625a](https://github.com/drey0143143/test-change-log/commit/4fa625aba4a9231c28dae00489aae970a2ef3974))
+
+
+### Features
+
+* code of conduct added ([b924603](https://github.com/drey0143143/test-change-log/commit/b924603860ee7c34af138a86fe835ae678ec9e3e))
+
+
+
 # [3.3.0](https://github.com/drey0143143/test-change-log/compare/v3.2.1...v3.3.0) (2022-04-19)
 
 
@@ -31,15 +45,6 @@
 ### Features
 
 * change master to working-test ([0fa844c](https://github.com/drey0143143/test-change-log/commit/0fa844c83e260ea9d343b69c03680347fc84d198))
-
-
-
-## [3.0.2](https://github.com/drey0143143/test-change-log/compare/v3.0.1...v3.0.2) (2022-04-18)
-
-
-### Bug Fixes
-
-* pr changes ([2b02ee4](https://github.com/drey0143143/test-change-log/commit/2b02ee4d1133d38e26551c5d95f4a1fec1760c5f))
 
 
 
