@@ -42,3 +42,9 @@ variable "orchestration_policy_name_suffix" {
   type        = list
 }
 
+output "arn" {
+  value = aws_ssoadmin_permission_set.permission_set.arn
+  description = "The arn of the Permission Set created"
+}
+
+
