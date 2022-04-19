@@ -11,6 +11,8 @@ jobs:
     steps:
       # It is required to have a checkout step prior to changelog and release step,to allow action to discover the configuration file.
       - uses: actions/checkout@v2
+        with:
+          fetch-depth: "0"
 
         # This step creates changelog.md in the root of the repository
       - name: Changelog Action
