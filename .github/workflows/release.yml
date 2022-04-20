@@ -22,7 +22,7 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
 
         # This step creates release if there are changes from the previous release and skip if there are no changes from the previous release.
-      - name: create release
+      - name: create releases
         uses: actions/create-release@v1
         if: ${{ steps.changelog.outputs.skipped == 'false'}}
         env:
