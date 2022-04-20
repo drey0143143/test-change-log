@@ -30,12 +30,5 @@ variable "github_repo_name" {
   type        = list(string)
 }
 
-variable "orchestration_policy_name_prefix" {
-  default     = ""
-  description = "The name of policy to be attached to orchestration role created. Preceds suffix of same type."
-  type        = string
-}
-
-
 
 
