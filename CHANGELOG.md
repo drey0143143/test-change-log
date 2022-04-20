@@ -1,3 +1,17 @@
+# [3.10.0](https://github.com/drey0143143/test-change-log/compare/v3.9.0...v3.10.0) (2022-04-20)
+
+
+### Bug Fixes
+
+* typo corrected ([6dac1f7](https://github.com/drey0143143/test-change-log/commit/6dac1f77b719e6f99da94e26c605bc550c3bb167))
+
+
+### Features
+
+* PAT updated ([7d6b2a0](https://github.com/drey0143143/test-change-log/commit/7d6b2a0bf9fbd2a1317b1fb312b4c5231f14b59b))
+
+
+
 # [3.9.0](https://github.com/drey0143143/test-change-log/compare/v3.8.0...v3.9.0) (2022-04-20)
 
 
@@ -47,20 +61,6 @@
 ### Bug Fixes
 
 * add new tag ([14822d5](https://github.com/drey0143143/test-change-log/commit/14822d58f5276b526cc1635e06dcd15f40314b04))
-
-
-
-# [3.6.0](https://github.com/drey0143143/test-change-log/compare/v3.5.0...v3.6.0) (2022-04-19)
-
-
-### Bug Fixes
-
-* new tf code added ([79402ac](https://github.com/drey0143143/test-change-log/commit/79402ac7795b457cd9869f24ccda95db7e1f9b7c))
-
-
-### Features
-
-* data type changed ([063b99f](https://github.com/drey0143143/test-change-log/commit/063b99f8274a79e2de48d91db48a08abd72cddb8))
 
 
 
