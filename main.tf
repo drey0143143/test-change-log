@@ -1,4 +1,4 @@
-resource "aws_iam_role" "orchestration_role1" {
+resource "aws_iam_role" "orchestration_role" {
   name = local.orchestration_role_name
 
   assume_role_policy = <<EOF
@@ -14,7 +14,7 @@ resource "aws_iam_role" "orchestration_role1" {
       "StringEquals":{
         "token.actions.githubusercontent.com:sub": [
           "repo:ipipeline/${var.github_repo_name}:ref:refs/heads/working-test",
-          "repo:ipipeline/${var.github_repo_name}:push"
+          "repo:ipipeline/${var.github_repo_name}:pull_request"
         ]
       }
     }
@@ -29,13 +29,6 @@ variable "github_repo_name" {
   description = "The name of the repository to use with assume role policy trust condition"
   type        = list(string)
 }
-
-variable "orchestration_policy_name_prefix" {
-  default     = ""
-  description = "The name of policy to be attached to orchestration role created. Preceds suffix of same type."
-  type        = string
-}
-
 
 
 
