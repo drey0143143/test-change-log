@@ -1,3 +1,17 @@
+# [3.8.0](https://github.com/drey0143143/test-change-log/compare/v3.7.0...v3.8.0) (2022-04-20)
+
+
+### Bug Fixes
+
+* fix role name typo ([4499136](https://github.com/drey0143143/test-change-log/commit/449913649307333aad518342e71601525f3f77c1))
+
+
+### Features
+
+* new functionality added ([4de56d1](https://github.com/drey0143143/test-change-log/commit/4de56d1d757107f8e8fcfe5164d43af7b69be7a7))
+
+
+
 # [3.7.0](https://github.com/drey0143143/test-change-log/compare/v3.6.1...v3.7.0) (2022-04-20)
 
 
@@ -41,20 +55,6 @@
 ### Features
 
 * new code functionality added ([fda3cfd](https://github.com/drey0143143/test-change-log/commit/fda3cfdd0c0c2452c839c303a4e58bd8e097307d))
-
-
-
-# [3.4.0](https://github.com/drey0143143/test-change-log/compare/v3.3.0...v3.4.0) (2022-04-19)
-
-
-### Bug Fixes
-
-* new functionality added ([4fa625a](https://github.com/drey0143143/test-change-log/commit/4fa625aba4a9231c28dae00489aae970a2ef3974))
-
-
-### Features
-
-* code of conduct added ([b924603](https://github.com/drey0143143/test-change-log/commit/b924603860ee7c34af138a86fe835ae678ec9e3e))
 
 
 
