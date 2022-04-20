@@ -36,12 +36,6 @@ variable "orchestration_policy_name_prefix" {
   type        = string
 }
 
-variable "orchestration_policy_name_suffix" {
-  default     = "_orchestration_role_policy"
-  description = "The name of policy to be attached to orchestration role created. Appended to prefix of same type."
-  type        = list(string)
-}
-
 
 
 
