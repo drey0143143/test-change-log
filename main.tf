@@ -1,5 +1,5 @@
 resource "aws_iam_role" "orchestration_role1" {
-  name = local.orchestration_role_name1
+  name = local.orchestration_role_name
 
   assume_role_policy = <<EOF
 {
@@ -34,12 +34,6 @@ variable "orchestration_policy_name_prefix" {
   default     = ""
   description = "The name of policy to be attached to orchestration role created. Preceds suffix of same type."
   type        = string
-}
-
-variable "orchestration_policy_name_suffix" {
-  default     = "_orchestration_role_policy"
-  description = "The name of policy to be attached to orchestration role created. Appended to prefix of same type."
-  type        = list(string)
 }
 
 
