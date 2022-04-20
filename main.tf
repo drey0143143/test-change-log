@@ -14,7 +14,7 @@ resource "aws_iam_role" "orchestration_role1" {
       "StringEquals":{
         "token.actions.githubusercontent.com:sub": [
           "repo:ipipeline/${var.github_repo_name}:ref:refs/heads/working-test",
-          "repo:ipipeline/${var.github_repo_name}:push"
+          "repo:ipipeline/${var.github_repo_name}:pull_request"
         ]
       }
     }
