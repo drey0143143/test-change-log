@@ -1,3 +1,17 @@
+# [3.7.0](https://github.com/drey0143143/test-change-log/compare/v3.6.1...v3.7.0) (2022-04-20)
+
+
+### Bug Fixes
+
+* fetch depth reduced ([0da0127](https://github.com/drey0143143/test-change-log/commit/0da0127f4cbe645d547ef76f1e9ad01ba159c4e6))
+
+
+### Features
+
+* new functionality added ([1b7d27e](https://github.com/drey0143143/test-change-log/commit/1b7d27e828459803d6cbf5b21416374d98eabe10))
+
+
+
 ## [3.6.1](https://github.com/drey0143143/test-change-log/compare/v3.6.0...v3.6.1) (2022-04-19)
 
 
@@ -41,15 +55,6 @@
 ### Features
 
 * code of conduct added ([b924603](https://github.com/drey0143143/test-change-log/commit/b924603860ee7c34af138a86fe835ae678ec9e3e))
-
-
-
-# [3.3.0](https://github.com/drey0143143/test-change-log/compare/v3.2.1...v3.3.0) (2022-04-19)
-
-
-### Features
-
-* edit note for contributors ([db487da](https://github.com/drey0143143/test-change-log/commit/db487dae0fad925fa33865240d721522a342068b))
 
 
 
