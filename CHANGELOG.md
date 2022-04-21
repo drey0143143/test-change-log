@@ -1,3 +1,23 @@
+# [3.11.0](https://github.com/drey0143143/test-change-log/compare/v3.9.0...v3.11.0) (2022-04-21)
+
+
+### Bug Fixes
+
+* new changes ([8561e99](https://github.com/drey0143143/test-change-log/commit/8561e99fef75b0527ad60bd62279061d7f4847d4))
+* package.json ([6c7fbba](https://github.com/drey0143143/test-change-log/commit/6c7fbba5d960577842400e198b9c8c0570085ee8))
+* pat corrected for second time ([4d7ea9b](https://github.com/drey0143143/test-change-log/commit/4d7ea9b7dfedc8e1511344c5fb7f4d27ce724668))
+* persist creds ([3b60bfd](https://github.com/drey0143143/test-change-log/commit/3b60bfd33f3d6a21a5887f42d4a2cd39e7c0f419))
+* Personal access configured ([ee42a82](https://github.com/drey0143143/test-change-log/commit/ee42a82757403acfcca15012b4e25b11a6d9fe29))
+* skip ([7eaf717](https://github.com/drey0143143/test-change-log/commit/7eaf7172a54cb6b2a412c0a3a3dcba25d8d79464))
+* typo corrected ([6dac1f7](https://github.com/drey0143143/test-change-log/commit/6dac1f77b719e6f99da94e26c605bc550c3bb167))
+
+
+### Features
+
+* PAT updated ([7d6b2a0](https://github.com/drey0143143/test-change-log/commit/7d6b2a0bf9fbd2a1317b1fb312b4c5231f14b59b))
+
+
+
 # [3.9.0](https://github.com/drey0143143/test-change-log/compare/v3.8.0...v3.9.0) (2022-04-20)
 
 
@@ -47,20 +67,6 @@
 ### Bug Fixes
 
 * add new tag ([14822d5](https://github.com/drey0143143/test-change-log/commit/14822d58f5276b526cc1635e06dcd15f40314b04))
-
-
-
-# [3.6.0](https://github.com/drey0143143/test-change-log/compare/v3.5.0...v3.6.0) (2022-04-19)
-
-
-### Bug Fixes
-
-* new tf code added ([79402ac](https://github.com/drey0143143/test-change-log/commit/79402ac7795b457cd9869f24ccda95db7e1f9b7c))
-
-
-### Features
-
-* data type changed ([063b99f](https://github.com/drey0143143/test-change-log/commit/063b99f8274a79e2de48d91db48a08abd72cddb8))
 
 
 
