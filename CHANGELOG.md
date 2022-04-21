@@ -1,3 +1,7 @@
+## [3.11.4](https://github.com/drey0143143/test-change-log/compare/v3.11.3...v3.11.4) (2022-04-21)
+
+
+
 ## [3.11.3](https://github.com/drey0143143/test-change-log/compare/v3.11.2...v3.11.3) (2022-04-21)
 
 
@@ -27,21 +31,6 @@
 ### Features
 
 * PAT updated ([7d6b2a0](https://github.com/drey0143143/test-change-log/commit/7d6b2a0bf9fbd2a1317b1fb312b4c5231f14b59b))
-
-
-
-# [3.9.0](https://github.com/drey0143143/test-change-log/compare/v3.8.0...v3.9.0) (2022-04-20)
-
-
-### Bug Fixes
-
-* clean up ([b494399](https://github.com/drey0143143/test-change-log/commit/b494399cbdd56c6b036ac874c0ef04dd4842f120))
-* contributor guideline ([ab5d4d3](https://github.com/drey0143143/test-change-log/commit/ab5d4d3634a8b0d92d2d72269472fad6aede32fa))
-
-
-### Features
-
-* add new functionality ([adb3de5](https://github.com/drey0143143/test-change-log/commit/adb3de57c90d7a1fdea7010a4ee1afcb91c2f2ba))
 
 
 
