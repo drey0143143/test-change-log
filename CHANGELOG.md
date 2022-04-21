@@ -1,3 +1,7 @@
+## [3.11.1](https://github.com/drey0143143/test-change-log/compare/v3.11.0...v3.11.1) (2022-04-21)
+
+
+
 # [3.11.0](https://github.com/drey0143143/test-change-log/compare/v3.9.0...v3.11.0) (2022-04-21)
 
 
@@ -58,15 +62,6 @@
 ### Features
 
 * new functionality added ([1b7d27e](https://github.com/drey0143143/test-change-log/commit/1b7d27e828459803d6cbf5b21416374d98eabe10))
-
-
-
-## [3.6.1](https://github.com/drey0143143/test-change-log/compare/v3.6.0...v3.6.1) (2022-04-19)
-
-
-### Bug Fixes
-
-* add new tag ([14822d5](https://github.com/drey0143143/test-change-log/commit/14822d58f5276b526cc1635e06dcd15f40314b04))
 
 
 
