@@ -21,6 +21,7 @@ jobs:
         uses: TriPSs/conventional-changelog-action@v3
         with:
           github-token: ${{ secrets.PAT_ACCESS }} # This token is provided by Actions, you do not need to create your own token
+          skip-on-empty: false
 
         # This step creates release if there are changes from the previous release and skip if there are no changes from the previous release.
       - name: create releases
