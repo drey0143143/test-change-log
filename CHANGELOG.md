@@ -1,3 +1,7 @@
+## [3.11.3](https://github.com/drey0143143/test-change-log/compare/v3.11.2...v3.11.3) (2022-04-21)
+
+
+
 ## [3.11.2](https://github.com/drey0143143/test-change-log/compare/v3.11.1...v3.11.2) (2022-04-21)
 
 
@@ -38,20 +42,6 @@
 ### Features
 
 * add new functionality ([adb3de5](https://github.com/drey0143143/test-change-log/commit/adb3de57c90d7a1fdea7010a4ee1afcb91c2f2ba))
-
-
-
-# [3.8.0](https://github.com/drey0143143/test-change-log/compare/v3.7.0...v3.8.0) (2022-04-20)
-
-
-### Bug Fixes
-
-* fix role name typo ([4499136](https://github.com/drey0143143/test-change-log/commit/449913649307333aad518342e71601525f3f77c1))
-
-
-### Features
-
-* new functionality added ([4de56d1](https://github.com/drey0143143/test-change-log/commit/4de56d1d757107f8e8fcfe5164d43af7b69be7a7))
 
 
 
