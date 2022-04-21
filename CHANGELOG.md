@@ -1,3 +1,12 @@
+## [3.12.1](https://github.com/drey0143143/test-change-log/compare/v3.12.0...v3.12.1) (2022-04-21)
+
+
+### Bug Fixes
+
+* event type fixed ([f48e80e](https://github.com/drey0143143/test-change-log/commit/f48e80e9c9adf9085a3a454e61adb448b2d3c926))
+
+
+
 # [3.12.0](https://github.com/drey0143143/test-change-log/compare/v3.11.16...v3.12.0) (2022-04-21)
 
 
@@ -28,10 +37,6 @@
 
 
 ## [3.11.14](https://github.com/drey0143143/test-change-log/compare/v3.11.13...v3.11.14) (2022-04-21)
-
-
-
-## [3.11.13](https://github.com/drey0143143/test-change-log/compare/v3.11.12...v3.11.13) (2022-04-21)
 
 
 
