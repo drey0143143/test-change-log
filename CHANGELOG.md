@@ -1,3 +1,18 @@
+# [3.12.0](https://github.com/drey0143143/test-change-log/compare/v3.11.16...v3.12.0) (2022-04-21)
+
+
+### Bug Fixes
+
+* branch name ([8af4d29](https://github.com/drey0143143/test-change-log/commit/8af4d295aeed3b59e33837a74c8dbcc9239176ef))
+* typo sorted ([ed1338d](https://github.com/drey0143143/test-change-log/commit/ed1338d2e67252c5768a1927211ae5cb16fe4cd1))
+
+
+### Features
+
+* added new functionality ([2fb5fe5](https://github.com/drey0143143/test-change-log/commit/2fb5fe5bc57b247e439f8571fb5d22076f9ffba2))
+
+
+
 ## [3.11.16](https://github.com/drey0143143/test-change-log/compare/v3.11.15...v3.11.16) (2022-04-21)
 
 
@@ -17,10 +32,6 @@
 
 
 ## [3.11.13](https://github.com/drey0143143/test-change-log/compare/v3.11.12...v3.11.13) (2022-04-21)
-
-
-
-## [3.11.12](https://github.com/drey0143143/test-change-log/compare/v3.11.11...v3.11.12) (2022-04-21)
 
 
 
