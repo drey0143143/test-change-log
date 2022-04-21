@@ -1,3 +1,7 @@
+## [3.11.11](https://github.com/drey0143143/test-change-log/compare/v3.11.10...v3.11.11) (2022-04-21)
+
+
+
 ## [3.11.10](https://github.com/drey0143143/test-change-log/compare/v3.11.9...v3.11.10) (2022-04-21)
 
 
@@ -11,10 +15,6 @@
 
 
 ## [3.11.7](https://github.com/drey0143143/test-change-log/compare/v3.11.6...v3.11.7) (2022-04-21)
-
-
-
-## [3.11.6](https://github.com/drey0143143/test-change-log/compare/v3.11.5...v3.11.6) (2022-04-21)
 
 
 
