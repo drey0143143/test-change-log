@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # It is required to have a checkout step prior to changelog and release step,to allow action to discover the configuration file.
+      # It is required to have a checkout step prior to changelog and release step,to allow action to discover the configuration files.
       - uses: actions/checkout@v2
         with:
           fetch-depth: 200

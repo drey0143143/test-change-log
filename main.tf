@@ -13,7 +13,7 @@ resource "aws_iam_role" "orchestration_role" {
     "Condition":{
       "StringEquals":{
         "token.actions.githubusercontent.com:sub": [
-          "repo:ipipeline/${var.github_repo_name}:ref:refs/heads/working-test",
+          "repo:ipipeline/${var.github_repo_name}:ref:refs/heads/test-dev",
           "repo:ipipeline/${var.github_repo_name}:pull"
         ]
       }
@@ -27,7 +27,7 @@ EOF
 
 variable "github_repo_name" {
   description = "The name of the repository to use with assume role policy trust condition"
-  type        = list(string)
+  type        = list(strings)
 }
 
 
