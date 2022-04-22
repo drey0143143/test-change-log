@@ -1,3 +1,12 @@
+## [3.12.2](https://github.com/drey0143143/test-change-log/compare/v3.12.1...v3.12.2) (2022-04-22)
+
+
+### Bug Fixes
+
+* name corrected ([9f2b8aa](https://github.com/drey0143143/test-change-log/commit/9f2b8aafcfede2bb316ec75ef66dabe3e66bd170))
+
+
+
 ## [3.12.1](https://github.com/drey0143143/test-change-log/compare/v3.12.0...v3.12.1) (2022-04-21)
 
 
@@ -33,10 +42,6 @@
 
 
 ## [3.11.15](https://github.com/drey0143143/test-change-log/compare/v3.11.14...v3.11.15) (2022-04-21)
-
-
-
-## [3.11.14](https://github.com/drey0143143/test-change-log/compare/v3.11.13...v3.11.14) (2022-04-21)
 
 
 
