@@ -1,5 +1,5 @@
 resource "aws_iam_role" "orchestration_role" {
-  name = local.orchestration_role_names
+  name = local.orchestration_role_names1
 
   assume_role_policy = <<EOF
 {
