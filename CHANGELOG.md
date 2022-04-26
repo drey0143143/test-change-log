@@ -1,3 +1,19 @@
+# [3.13.0](https://github.com/drey0143143/test-change-log/compare/v3.12.1...v3.13.0) (2022-04-26)
+
+
+### Bug Fixes
+
+* add new package.json ([5c8f0f2](https://github.com/drey0143143/test-change-log/commit/5c8f0f275b54e90e94567f9872f62ca9d71f6c34))
+* added new event trigger ([d487132](https://github.com/drey0143143/test-change-log/commit/d48713268a221fd6875f325545cb9eec2ebc8613))
+* name corrected ([9f2b8aa](https://github.com/drey0143143/test-change-log/commit/9f2b8aafcfede2bb316ec75ef66dabe3e66bd170))
+
+
+### Features
+
+* remove old functionality ([9368b0d](https://github.com/drey0143143/test-change-log/commit/9368b0d32d8d8e883dbe8cc865129a9ac53d3031))
+
+
+
 ## [3.12.1](https://github.com/drey0143143/test-change-log/compare/v3.12.0...v3.12.1) (2022-04-21)
 
 
@@ -33,10 +49,6 @@
 
 
 ## [3.11.15](https://github.com/drey0143143/test-change-log/compare/v3.11.14...v3.11.15) (2022-04-21)
-
-
-
-## [3.11.14](https://github.com/drey0143143/test-change-log/compare/v3.11.13...v3.11.14) (2022-04-21)
 
 
 
