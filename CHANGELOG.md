@@ -1,3 +1,25 @@
+# [3.14.0](https://github.com/drey0143143/test-change-log/compare/v3.12.1...v3.14.0) (2022-04-26)
+
+
+### Bug Fixes
+
+* add new package.json ([5c8f0f2](https://github.com/drey0143143/test-change-log/commit/5c8f0f275b54e90e94567f9872f62ca9d71f6c34))
+* add new tag name ([65fd1f2](https://github.com/drey0143143/test-change-log/commit/65fd1f264c9303045ad2c923b03032ae11ca68dc))
+* added new event trigger ([d487132](https://github.com/drey0143143/test-change-log/commit/d48713268a221fd6875f325545cb9eec2ebc8613))
+* json ([33b34aa](https://github.com/drey0143143/test-change-log/commit/33b34aa81e242550100b09bc1c49314a26301889))
+* name corrected ([9f2b8aa](https://github.com/drey0143143/test-change-log/commit/9f2b8aafcfede2bb316ec75ef66dabe3e66bd170))
+* new content ([a86beb7](https://github.com/drey0143143/test-change-log/commit/a86beb73b222be07b53fe8c56055391276c63d23))
+* new message ([8a5959f](https://github.com/drey0143143/test-change-log/commit/8a5959fe28890a0f99c31512ab16e43c86e47f95))
+* new name added ([87db084](https://github.com/drey0143143/test-change-log/commit/87db08498dc9e59521b662f2b2659d7b3adb43e6))
+* no message ([72edbdf](https://github.com/drey0143143/test-change-log/commit/72edbdf88b1c16c5b82c24b36fed8c676b815a1b))
+
+
+### Features
+
+* remove old functionality ([9368b0d](https://github.com/drey0143143/test-change-log/commit/9368b0d32d8d8e883dbe8cc865129a9ac53d3031))
+
+
+
 ## [3.12.1](https://github.com/drey0143143/test-change-log/compare/v3.12.0...v3.12.1) (2022-04-21)
 
 
@@ -33,10 +55,6 @@
 
 
 ## [3.11.15](https://github.com/drey0143143/test-change-log/compare/v3.11.14...v3.11.15) (2022-04-21)
-
-
-
-## [3.11.14](https://github.com/drey0143143/test-change-log/compare/v3.11.13...v3.11.14) (2022-04-21)
 
 
 
